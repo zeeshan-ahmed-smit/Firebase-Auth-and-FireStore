@@ -1,2 +1,2 @@
 # Firebase-Auth-and-FireStore
-#link = https://zeeshan-firebas.netlify.app
+#link = https://zeeshan-firebase.netlify.app
